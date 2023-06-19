@@ -76,8 +76,8 @@ Ver los poster de todas las peliculas aun sin interactuar con las categorías.
 Al hacer click al poster se muestra el nombre de la peliculas, su sinopsis y año de lanzamiento.
 Tener un botón que permita limpiar filtros y seguir en la búsqueda.
 Definición de terminado:
-Crear un <header> en HTML que contenga la imagen principal y la bienvenida
-Agregar un <h2>Movies<h2> en HTML para indicar la sección donde comienzan las peliculas
+Crear un header en HTML que contenga la imagen principal y la bienvenida
+Agregar un h2 Movies en HTML para indicar la sección donde comienzan las peliculas
 Agregar las etiquetas <button> y <Select> de acuerdo a las categorías que queríamos agregar  para la interacción en nuestra pagina
 Las indicaciones para interactuar con los posters se muestras en HTML en la etiqueta de <button>
 Se lograron mostrar los posters desde main.js mediante nodos y la interacción que cumplen nuestros posters con un evento.
