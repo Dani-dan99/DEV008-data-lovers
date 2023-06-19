@@ -64,7 +64,7 @@ Al ingresar a la página se necesitan visualizar los posters de cada película, 
 * ¿Cuándo utilizan o utilizarían el producto?
 En tiempos de ocio, o para documentarse más sobre las películas realizadas en este estudio cinematográfico.
 
-***Historia de usuario 1:Como nuevo fan de Studio Ghibli***
+**Historia de usuario 1:Como nuevo fan de Studio Ghibli**
 
 Quiero: Saber cuales son las películas animadas que pertenecen a estudio Ghibli
 Para: familiarizarme con sus creaciones y contenido.
@@ -83,7 +83,7 @@ Las indicaciones para interactuar con los posters se muestras en HTML en la etiq
 Se lograron mostrar los posters desde main.js mediante nodos y la interacción que cumplen nuestros posters con un evento.
 Para limpiar los filtros de las categorías con las que te interactúan en el DOM se creo una etiqueta de <botton> en HTML la cual interactúa con main.js y realiza su función mediante un evento.
 
-***Historia de ususario 2: Un fan de la animación japonesa***
+**Historia de ususario 2: Un fan de la animación japonesa**
 Quiero: Saber quienes son los directores y productores de las animaciones y saber cuántas y cuáles son las animaciones a las que dieron "vida".
 Para: Conocer nuevos directores y productores del área de la animación japonesa.
 Criterios de Aceptación:
@@ -101,7 +101,7 @@ Generar un filtro general por productor en el archivo data.js e importarlo al ma
 Crear un addEventListener para que la data se filtre y se muestre en el <html> por productor.
 mostrando así unicamente las películas que cada uno hizo.
 
-***Historia de usuario  3: Nuevo fan o fan de Studio Ghibli***
+**Historia de usuario  3: Nuevo fan o fan de Studio Ghibli**
 Quiero: saber la fecha de lanzamiento, de la más reciente a la menos reciente de las peliculas.
 Para: convertirme en uno de los fans que sabe esos datos curiosos sobre el contenido de Ghibli.
 Criterios de aceptación
@@ -112,7 +112,8 @@ Crear en HMTL un <select> que tenga las categorías deseadas: la mas reciente y 
 Vincular la data proporcionada de Ghibli, específicamente la de su lanzamiento para manipular el orden con un sort
 Vincular HTML con main.js para su interacción y main.js con data.js para su correcta funcionalidad.
 Los posters tanto como la información responden al sort.
-***Historia de ususario 4:Interesado en saber más sobre cada película en específico***
+
+**Historia de ususario 4:Interesado en saber más sobre cada película en específico**
 Quiero: Saber más sobre una película, un breve resumen que me atrape, con su título y año de lanzamiento.
 Para: tener mejor contexto de qué trata y su nombre en inglés para su fácil búsqueda en plataformas de straming.
 Criterios de aceptación
